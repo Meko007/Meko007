@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meko007&show_icons=true&locale=en" alt="meko007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meko007&theme=dark" alt="meko007" /></p>
+
+<p><img align="left" src="https://www.codewars.com/users/Jaytaro/badges/large" alt="Jaytaro" /></p>
