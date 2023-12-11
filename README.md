@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Okem Onyeka</h1>
+<div align="center">
+<img src="https://i.gifer.com/3AyY.gif" alt="coding"/>
+</div>
+
 <h3 align="center">A backend developer eager to learn and give back to the dev community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meko007&label=Profile%20views&color=0e75b6&style=flat" alt="meko007" /> </p>
