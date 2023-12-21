@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meko007&label=Profile%20views&color=0e75b6&style=flat" alt="meko007" /> </p>
 
+- 🌱 I’m currently learning **Vue**
+
 - 📫 How to reach me **okem007onyeka@gmail.com**
 
 - ⚡ Fun fact **I'm a huge fan of anime and other animated shows**
