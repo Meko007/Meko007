@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meko007&label=Profile%20views&color=0e75b6&style=flat" alt="meko007" /> </p>
 
-- 🔭 I’m currently working on [a telegram bot](t.me/ILanime_bot)
+- 🔭 I’m currently working on **a telegram bot**
 
 - 📫 How to reach me **okem007onyeka@gmail.com**
 
