@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a telegram bot**
 
-- 📫 How to reach me **okem007onyeka@gmail.com**
+- 📫 How to reach me **jesse007onyeka@gmail.com**
 
 - ⚡ Fun fact **I'm a huge fan of anime and other animated shows**
 
