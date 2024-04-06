@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **a telegram bot**
 
-- 📫 How to reach me **jesse007onyeka@gmail.com**
+- 📫 How to reach me: **jesse007onyeka@gmail.com**
 
-- ⚡ Fun fact **I'm a huge fan of anime and other animated shows**
+- ⚡ Fun fact: **Rust is better at types than TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meko007&show_icons=true&locale=en" alt="meko007" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meko007&theme=dark" alt="meko007" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meko007&theme=dark" alt="meko007" /></p>
 
 
 <p><img align="left" src="https://www.codewars.com/users/Jaytaro/badges/large" alt="Jaytaro" /></p>
