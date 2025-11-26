@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Okem Onyeka</h1>
+<h1 align="center">Hi 👋, I'm Okemdinachi Onyeka</h1>
 <h3 align="center">A backend developer eager to learn and give back to the dev community</h3>
 <!-- <div align="center">
 <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy-downsized.gif" alt="coding" height="225px"/>
